@@ -1,0 +1,45 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.content {
+  padding: 16px;
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
